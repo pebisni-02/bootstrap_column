@@ -1,0 +1,57 @@
+.first{
+    height:50px;
+    background-color: red;
+}
+.second{
+    height:50px;
+    background-color: blue;
+
+}
+.third{
+    height:75px;
+    background-color:yellowgreen;
+}
+.fourth{
+    height:50px;
+    background-color:green;
+}
+.fifth{
+    height:50px;
+    background-color:purple;
+}
+.sixth{
+    height:50px;
+    background-color:orangered;
+ 
+}
+.seventh{
+    height:50px;
+    background-color:violet;
+}
+.eighth{
+    height:50px;
+    background-color:yellowgreen;
+}
+ .nineth{
+    height:25px;
+    background-color:green;
+ }
+.tenth{
+    height:25px;
+    background-color:blueviolet;
+}
+.eleve{
+    height:25px;
+    background-color:brown;
+}
+.twelev{
+    height:25px;
+    background-color:blue; 
+}
+.thirt{
+    height:20px;
+    background-color:blue;
+}
+.container div{
+    border: 2px solid white;
+}
